@@ -30,7 +30,8 @@
 **-> 0.5보다 큰 데이터가 30%나 되고, 게임산업의 특성상 경쟁이 심하고 게임별 편차가 크기 때문에 이상치로 판단하지 않는다**
 
 **3. 테마별 데이터 분석**
-> **1. 지역별 선호하는 게임 장르**                                                                                                                            
+> **1. 지역별 선호하는 게임 장르**      
+                                                                                                                                       
 <image src="https://user-images.githubusercontent.com/114864819/200473096-535575d7-4035-4e57-b632-0a33d7c7e653.png" width="30%" height="30%">
 <image src="https://user-images.githubusercontent.com/114864819/200473179-ba9dfa6e-e9b2-4765-9bd5-3f9b44bde889.png" width="30%" height="30%">
 
@@ -40,7 +41,8 @@
 
 > **2. 연도별 게임 트랜드**
 
-- 연도별 장르의 변화                                                                                                                                     
+- 연도별 장르의 변화          
+                                                                                                                                            
 <image src="https://user-images.githubusercontent.com/114864819/200477072-b85e7497-4c15-4397-9316-5eb905e7c474.png" width="30%" height="30%">
 <image src="https://user-images.githubusercontent.com/114864819/200477202-091766cf-6cf0-4942-8ad5-5a5d29eef125.png" width="30%" height="30%">
 
@@ -63,6 +65,7 @@
 **상위 50개의 게임이 전체 출고량의 대부분을 차지한다는 것을 알 수 있다**
 
 - 장르별 특징
+                                                                                                                                            
 <image src="https://user-images.githubusercontent.com/114864819/200478144-e43603ca-a8ef-48d6-aade-3a9210d4283d.png" width="30%" height="30%"/>
 
 - 플랫폼별 특징
