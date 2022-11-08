@@ -32,7 +32,7 @@
 **3. 테마별 데이터 분석**
 > **1. 지역별 선호하는 게임 장르**      
                                                                                                                                        
-<image src="https://user-images.githubusercontent.com/114864819/200473096-535575d7-4035-4e57-b632-0a33d7c7e653.png" width="30%" height="30%">
+<image src="https://user-images.githubusercontent.com/114864819/200473096-535575d7-4035-4e57-b632-0a33d7c7e653.png" width="30%" height="30%" align="left">
 <image src="https://user-images.githubusercontent.com/114864819/200473179-ba9dfa6e-e9b2-4765-9bd5-3f9b44bde889.png" width="30%" height="30%">
 
 **->일본과 기타 지역은 장르별 선호 유사성이 약간 있어보이고, 네개 지역 모두에서 Action이 전체적으로 상위권에 분포한다는 점을 알 수 있다**
