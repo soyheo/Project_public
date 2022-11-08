@@ -43,8 +43,8 @@
 
 - 연도별 장르의 변화          
                                                                                                                                             
-<image src="https://user-images.githubusercontent.com/114864819/200477072-b85e7497-4c15-4397-9316-5eb905e7c474.png" width="30%" height="30%">
-<image src="https://user-images.githubusercontent.com/114864819/200477202-091766cf-6cf0-4942-8ad5-5a5d29eef125.png" width="30%" height="30%">
+<image src="https://user-images.githubusercontent.com/114864819/200477072-b85e7497-4c15-4397-9316-5eb905e7c474.png" width="30%" height="30%" align="left">
+<image src="https://user-images.githubusercontent.com/114864819/200477202-091766cf-6cf0-4942-8ad5-5a5d29eef125.png" width="30%" height="80%">
 
 - 연도별 플랫폼 변화 확인
 
@@ -54,7 +54,7 @@
                                                                                                                                             
 <image src="https://user-images.githubusercontent.com/114864819/200477414-7ac5c77d-e425-42d7-81fa-624c455ce5f9.png" width="30%" height="30%"/>
 
-**장르 : 연도별 장르의 변화가 매우 다양하지만 전반적으로 Action의 비중이 높아 보인다. <br> 지역 : 전 기간을 통틀어 북미시장과 유럽시장이 선전하고 있다 <br> 플랫폼 : 콘솔 플랫폼이 가장 크고 Portable 게임시장은 점점 감소하는 추세이다 <br> 퍼블리셔 : 상위 10개사의 분포를 보면 연도별 뚜렷한 독점 추세가 없이 매년 바뀌므로 경쟁이 치열한 것으로 보인다**
+**->장르 : 연도별 장르의 변화가 매우 다양하지만 전반적으로 Action의 비중이 높아 보인다. <br> 지역 : 전 기간을 통틀어 북미시장과 유럽시장이 선전하고 있다 <br> 플랫폼 : 콘솔 플랫폼이 가장 크고 Portable 게임시장은 점점 감소하는 추세이다 <br> 퍼블리셔 : 상위 10개사의 분포를 보면 연도별 뚜렷한 독점 추세가 없이 매년 바뀌므로 경쟁이 치열한 것으로 보인다**
 
 
 > **3. 출고량이 높은 게임에 대한 분석 및 시각화**
@@ -62,7 +62,7 @@
                                                                                                                                             
 <image src="https://user-images.githubusercontent.com/114864819/200477865-077a2866-aab4-4172-92ac-4f528a537e90.png" width="30%" height="30%"/>
 
-**상위 50개의 게임이 전체 출고량의 대부분을 차지한다는 것을 알 수 있다**
+**->상위 50개의 게임이 전체 출고량의 대부분을 차지한다는 것을 알 수 있다 -> 소수의 게임들만이 독식한다**
 
 - 장르별 특징
                                                                                                                                             
@@ -70,20 +70,23 @@
 
 - 플랫폼별 특징
                                                                                                                                             
-<image src="https://user-images.githubusercontent.com/114864819/200478431-9f829a98-0e19-4f7f-b9ce-676749038bf6.png" width="30%" height="30%">
-<image src="https://user-images.githubusercontent.com/114864819/200478393-74ea2c3a-0df9-4ca3-a6ec-7a1a90937993.png" width="30%" height="30%">
+<image src="https://user-images.githubusercontent.com/114864819/200478431-9f829a98-0e19-4f7f-b9ce-676749038bf6.png" width="30%" height="30%" align="left">
+<image src="https://user-images.githubusercontent.com/114864819/200478393-74ea2c3a-0df9-4ca3-a6ec-7a1a90937993.png" width="30%" height="100%">
 
 - 퍼블리셔별 특징
 
-<image src="https://user-images.githubusercontent.com/114864819/200478665-565acc71-39e2-4410-b005-98b8dad7649e.png" width="30%" height="30%">
-<image src="https://user-images.githubusercontent.com/114864819/200478712-fd253e6f-faea-4b76-8288-305aa4255aae.png" width="30%" height="30%">
+<image src="https://user-images.githubusercontent.com/114864819/200478665-565acc71-39e2-4410-b005-98b8dad7649e.png" width="40%" height="100%" align="left">
+<image src="https://user-images.githubusercontent.com/114864819/200478712-fd253e6f-faea-4b76-8288-305aa4255aae.png" width="30%" height="20%">
 
+**->출고량이 높은 상위 50개 게임 분석 요약 : 가장 많이 사용된 플랫폼이 이고 콘솔이고, 2007년과 2013년도에 게임 출고량이 다소 많다는 걸 알 수 있다. 퍼블리셔는 Electronic Arts가 가장 출고량이 많으며 Activision이 뒤따르는데 두 퍼블리셔별 개발 장르는 다양하다. 전체 상위 50개 게임의 장르는 Action이 가장 큰 부분을 차지한다. Action장르의 다른 장르와의 상관관계는 전혀 없어 보인다.**
 
-**요약 : 출고량이 높은 상위 50개 게임을 분석해보면, 가장 많이 사용된 플랫폼이 이고 콘솔이고, 2007년과 2013년도에 게임 출고량이 다소 많다는 걸 알 수 있다. 퍼블리셔는 Electronic Arts가 가장 출고량이 많으며 Activision이 뒤따르는데 두 퍼블리셔별 개발 장르는 다양하다. 전체 상위 50개 게임의 장르는 Action이 가장 큰 부분을 차지한다. Action장르의 다른 장르와의 상관관계는 전혀 없어 보인다.**
 
 **4. 결론 : 다음 분기에 어떤 게임을 출시할까?**
-
 **-Action/Shooter 장르 </br> -콘솔 플랫폼, 그러나 2015년 이후 데이터가 없어 분석할 수 없었지만 현재 게임시장에서 큰 파이를 차지하는 모바일 플랫폼 활용도 고려 </br> -Electronic Arts사/Ubisoft의 액션/슈팅 게임을 참고하여 개발하도록 함**
 
-
+**5. 한계**
+  - 모바일 게임 데이터 취합이 안되어 현재 시장 흐름 반영의 어려움
+  - 데이터 분석을 통해 지역별, 플랫폼별로 굉장히 **fregmented**된 게임시장의 특성을 확인할 수 있는데 </br> 모든 지역을 타깃으로 한 장르의 게임을 선택하여 개발하는 것은 매우 어렵고 지역에 따라 맞춤 개발이 적합해 보이나 다품종 개발이 현실상의 어려움
+  - 멀티플랫폼으로 운용되는 게임의 경우 주력으로 하는 플랫폼에 집중된 판매량을 보이는데, 그에 대한 데이터분석과 전략의 부재
+  
 
