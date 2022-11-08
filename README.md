@@ -78,7 +78,7 @@
 <image src="https://user-images.githubusercontent.com/114864819/200478665-565acc71-39e2-4410-b005-98b8dad7649e.png" width="40%" height="100%" align="left">
 <image src="https://user-images.githubusercontent.com/114864819/200478712-fd253e6f-faea-4b76-8288-305aa4255aae.png" width="30%" height="20%">
 
-**->출고량이 높은 상위 50개 게임 분석 요약 : 가장 많이 사용된 플랫폼이 이고 콘솔이고, 2007년과 2013년도에 게임 출고량이 다소 많다는 걸 알 수 있다. 퍼블리셔는 Electronic Arts가 가장 출고량이 많으며 Activision이 뒤따르는데 두 퍼블리셔별 개발 장르는 다양하다. 전체 상위 50개 게임의 장르는 Action이 가장 큰 부분을 차지한다. Action장르의 다른 장르와의 상관관계는 전혀 없어 보인다.**
+**->출고량이 높은 상위 50개 게임 분석 요약 : </br> 가장 많이 사용된 플랫폼이 이고 콘솔이고, 2007년과 2013년도에 게임 출고량이 다소 많다는 걸 알 수 있다. </br> 퍼블리셔는 Electronic Arts가 가장 출고량이 많으며 Activision이 뒤따르는데 두 퍼블리셔별 개발 장르는 다양하다. </br> 전체 상위 50개 게임의 장르는 Action이 가장 큰 부분을 차지한다. </br> Action장르의 다른 장르와의 상관관계는 전혀 없어 보인다.**
 
 
 **4. 결론 : 다음 분기에 어떤 게임을 출시할까?**
