@@ -25,7 +25,7 @@
 **2. 전체 데이터 분포 확인**
 
 <image src="https://user-images.githubusercontent.com/114864819/200472742-81995d02-1bed-46df-b730-50269c739058.png" width="30%" align="left">
-<image src="https://user-images.githubusercontent.com/114864819/200472764-c5d7d1c7-133d-4eb2-b470-ce39af39bf31.png" width="30%" align="right>
+<image src="https://user-images.githubusercontent.com/114864819/200472764-c5d7d1c7-133d-4eb2-b470-ce39af39bf31.png" width="30%" align="right">
 
 **-> 0.5보다 큰 데이터가 30%나 되고, 게임산업의 특성상 경쟁이 심하고 게임별 편차가 크기 때문에 이상치로 판단하지 않는다**
 
